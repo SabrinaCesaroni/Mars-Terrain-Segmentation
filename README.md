@@ -4,6 +4,6 @@ First-place solution for pixel-level Martian terrain classification, developed f
 **Students**:
 - [Sabrina Cesaroni](https://github.com/SabrinaCesaroni)
 - [Samuele Vignolo](https://github.com/samuvignolo)
-- [Mara Tortorella]
-- [Abdullah Nasr]
+- [Mara Tortorella](https://github.com/maratortorella)
+- [Abdullah Nasr](https://github.com/0xabi)
 
